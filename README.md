@@ -71,7 +71,7 @@ I love the entire process of developing creative websites. I love the challenge 
 <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
 </p>
 
-![snake gif](https://github.com/Sachintha-Samarathunga/Sachintha-Samarathunga/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Sachintha-Samarathunga/Sachintha-Samarathunga/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **Sachintha-Samarathunga/Sachintha-Samarathunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
