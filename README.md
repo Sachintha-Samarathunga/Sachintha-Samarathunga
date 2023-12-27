@@ -57,7 +57,6 @@ I love the entire process of developing creative websites. I love the challenge 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachintha-Samarathunga&show_icons=true&locale=en&layout=compact&theme=tokyonight" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachintha-Samarathunga&count_private=true&show_icons=true&theme=tokyonight" align = "center"/>
-<img src="https://github.com/Sachintha-Samarathunga/Sachintha-Samarathunga/assets/98406068/7c87ca81-704e-4d14-8d8d-baf03327ac7a" width="300">
 </p>
 
 <br>
