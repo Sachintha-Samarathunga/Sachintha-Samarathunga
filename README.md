@@ -25,9 +25,6 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <div>
   I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 </div>
-<div>
-  <img src="https://github.com/Sachintha-Samarathunga/Sachintha-Samarathunga/assets/98406068/7c87ca81-704e-4d14-8d8d-baf03327ac7a" width="300">
-</div>
 </div>
 
 <br>
