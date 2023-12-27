@@ -17,9 +17,17 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <div align="center">
 <a href="https://www.buymeacoffee.com/thrpplek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+<br>
+
 <div align="center">
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 </div>
+
+<br>
+
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="300">
+<img src="https://github.com/Sachintha-Samarathunga/Sachintha-Samarathunga/assets/98406068/7c87ca81-704e-4d14-8d8d-baf03327ac7a" width="300">
 
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -40,13 +48,6 @@ I love the entire process of developing creative websites. I love the challenge 
 <h2>Languages & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;</h2>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,github,mongodb,mysql,nodejs,nextjs,php,py,react,tailwind,threejs,vite" alt="mongoDB" title="mongoDB"/>
 </div>
-
-<br>
-
-<div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="300">
-<img src="https://github.com/Sachintha-Samarathunga/Sachintha-Samarathunga/assets/98406068/7c87ca81-704e-4d14-8d8d-baf03327ac7a" width="300">
-
 
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
