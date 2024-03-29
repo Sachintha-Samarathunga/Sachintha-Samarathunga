@@ -67,7 +67,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <br>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sachintha-Samarathunga&theme=tokyonight" />
+<img  width="1000" src="https://github-profile-trophy.vercel.app/?username=Sachintha-Samarathunga&theme=tokyonight" />
 </p>
 
 <br>
