@@ -79,6 +79,9 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <br>
 
+<a href="https://github.com/samindyauv">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachintha-Samarathunga&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph">
+</a>
 
 ![snake gif](https://github.com/Sachintha-Samarathunga/Sachintha-Samarathunga/blob/output/github-contribution-grid-snake-dark.svg)
 
