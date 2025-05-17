@@ -67,7 +67,7 @@ skills();
 <h2>Tech Stack & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-Hover%20to%20see%20technologies%20I%20use-dodgerblue?style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-Hover%20to%20see%20technologies%20I%20use-black?style=for-the-badge" height="30" />
 </p>
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,github,mongodb,mysql,nodejs,nextjs,php,py,react,tailwind,threejs,vite" alt="mongoDB" title="mongoDB"/>
 <img src="https://skillicons.dev/icons?i=github,selenium,gherkin,cypress,python,java,javascript,postman,vscode,git,idea,sentry,jenkins,npm,nodejs" alt="QA Tools" title="QA Tools"/>
