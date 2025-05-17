@@ -62,18 +62,22 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachintha-Samarathunga&show_icons=true&locale=en&layout=compact&theme=tokyonight" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachintha-Samarathunga&count_private=true&show_icons=true&theme=tokyonight" align = "center"/>
-</p>
-
-<br>
-
-<p align="center">
-<img  width="1000" src="https://github-profile-trophy.vercel.app/?username=Sachintha-Samarathunga&theme=tokyonight" />
-</p>
-
-<br>
+<div align="center">
+  <a href="https://github.com/Sachintha-Samarathunga">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachintha-Samarathunga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=FFFFFF&ring_color=ff3068&border_radius=10&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachintha-Samarathunga&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=F0DB4F&text_color=FFFFFF&border_radius=10&hide_border=true" />
+  </a>
+  
+  <a href="https://github.com/Sachintha-Samarathunga">
+    <img width="95%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Sachintha-Samarathunga&row=1&column=6&margin-h=15&margin-w=5&no-bg=true&no-frame=true&theme=tokyonight" />
+  </a>
+  
+  <p align="center">
+    <a href="https://github.com/Sachintha-Samarathunga">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachintha-Samarathunga&theme=tokyonight&border=7F3FBF&background=0D1117&stroke=F0DB4F&ring=ff3068&fire=ff3068&currStreakLabel=F0DB4F&hide_border=true" alt="Herath's GitHub streak"/>
+    </a>
+  </p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
@@ -88,6 +92,8 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 <!--
 **Sachintha-Samarathunga/Sachintha-Samarathunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
