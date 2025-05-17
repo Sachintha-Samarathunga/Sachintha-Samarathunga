@@ -76,16 +76,15 @@ skills();
 <div align="center">
   <table>
     <tr>
-      <td valign="center" width="100%">
-        <h3>Web Development</h3>
+      <td width="100%">
+<!--         <h3>Web Development</h3> -->
         <div align="center">
           <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,github,mongodb,mysql,nodejs,nextjs,php,py,react,tailwind,threejs,vite" alt="mongoDB" /></a>
         </div>
       </td>
     </tr>
     <tr>
-      <td valign="top" width="100%">
-        <h3>Testing Tools & Frameworks</h3>
+      <td width="100%">
         <div align="center">
           <a href="#"><img src="https://skillicons.dev/icons?i=selenium,gherkin,cypress,postman,vscode,git,idea,sentry,jenkins,npm" /></a>
         </div>
