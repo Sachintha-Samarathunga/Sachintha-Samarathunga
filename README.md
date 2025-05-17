@@ -14,42 +14,41 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <img src="https://img.shields.io/twitter/follow/TrippleK?logo=twitter&style=for-the-badge" alt="ThrippleK" />
 <img src="https://komarev.com/ghpvc/?username=Sachintha-Samarathunga&color=blue&style=for-the-badge" alt="ThrippleK" />
 </p>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Sachintha-Samarathunga/count.svg" alt="Visitor Count" />  
-</div>
 
-<div align="center">
+<!--<div align="center">
 <a href="https://www.buymeacoffee.com/thrpplek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</div>
+</div>-->
 
-<br>
-
-<div align="center">
+<!--<div align="center">
 <div>
   I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 </div>
-</div>
+</div>-->
 
 <br>
-
+<div align="center">
+  
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me   <a href="https://www.buymeacoffee.com/thrpplek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
+</div>
 <img align="right" alt="Coding Animation" width="400" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
 ```javascript
-const Sachintha = {
+cconst Sachintha = {
   location: "Sri Lanka",
-  background: "Full-Stack Developer with expertise in modern web technologies",
-  focus: "Building scalable applications & cloud architecture",
-  learning: ["Microservices", "Machine Learning", "Blockchain"],
-  challenge: "Contributing to meaningful open-source projects every week",
-  hobbies: ["Coding", "Reading", "Photography", "Hiking"],
-  funFact: "I can solve a Rubik's cube in under 2 minutes!"
+  background: "Full-Stack Developer & QA Engineer with a passion for quality-driven development",
+  focus: "Building robust applications, ensuring software reliability, and optimizing user experience",
+  learning: ["Automated Testing", "DevOps"],
+  challenge: "Balancing feature delivery with comprehensive test coverage in every sprint",
+  hobbies: ["Coding", "Debugging", "Photography", "Exploring nature"],
+  funFact: "I can solve a Rubik's cube in under 2 minutes and love breaking (and fixing) things for fun!"
 };
 
 const skills = async () => {
-  await learnNewTechnologies();
-  buildAmazingSoftware();
-  shareTechKnowledge();
-  return improveContinuously();
+  await writeCleanCode();
+  await designAndExecuteTests();
+  await learnNewTechAndTools();
+  await contributeToTeamQualityGoals();
+  return growAsEngineer();
 };
 
 skills();
@@ -64,18 +63,6 @@ skills();
 
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-
-<div align="center">
-<h2>Connect with me on     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h2>
-<a href="https://www.linkedin.com/in/sachintha-samarathunga-ab8919229/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
-<a href="https://www.instagram.com/sachintha_samarathunge/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"></a>
-<a href="https://web.facebook.com/sachintha.samarathunge" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70"></a>
-<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70">
-
-</div>
-
-<br>
 
 <div align="center">
 <h2>Languages & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;</h2>
@@ -135,6 +122,15 @@ skills();
 </a>
 
 ![snake gif](https://github.com/Sachintha-Samarathunga/Sachintha-Samarathunga/blob/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+<h2>Connect with me on     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h2>
+<a href="https://www.linkedin.com/in/sachintha-samarathunga-ab8919229/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
+<a href="https://www.instagram.com/sachintha_samarathunge/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"></a>
+<a href="https://web.facebook.com/sachintha.samarathunge" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70"></a>
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70">
+
+</div>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
