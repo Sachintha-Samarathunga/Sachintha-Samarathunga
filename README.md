@@ -14,6 +14,9 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <img src="https://img.shields.io/twitter/follow/TrippleK?logo=twitter&style=for-the-badge" alt="ThrippleK" />
 <img src="https://komarev.com/ghpvc/?username=Sachintha-Samarathunga&color=blue&style=for-the-badge" alt="ThrippleK" />
 </p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Sachintha-Samarathunga/count.svg" alt="Visitor Count" />  
+</div>
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/thrpplek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
@@ -29,11 +32,34 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <br>
 
-<div align="center">
+<img align="right" alt="Coding Animation" width="400" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
+```javascript
+const Sachintha = {
+  location: "Sri Lanka",
+  background: "Full-Stack Developer with expertise in modern web technologies",
+  focus: "Building scalable applications & cloud architecture",
+  learning: ["Microservices", "Machine Learning", "Blockchain"],
+  challenge: "Contributing to meaningful open-source projects every week",
+  hobbies: ["Coding", "Reading", "Photography", "Hiking"],
+  funFact: "I can solve a Rubik's cube in under 2 minutes!"
+};
+
+const skills = async () => {
+  await learnNewTechnologies();
+  buildAmazingSoftware();
+  shareTechKnowledge();
+  return improveContinuously();
+};
+
+skills();
+```
+
+<!--<div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="300">
-<!-- <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"> -->
+<!-- <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"> 
 <img src="https://github.com/Sachintha-Samarathunga/Sachintha-Samarathunga/assets/98406068/7c87ca81-704e-4d14-8d8d-baf03327ac7a" width="250">
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="250">
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="250">-->
 
 
 <br>
