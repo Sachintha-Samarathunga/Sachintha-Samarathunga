@@ -12,7 +12,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <p align="center">
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sachintha-Samarathunga?color=236ad3&style=for-the-badge&logo=github&label=Followers"/>
 <img src="https://img.shields.io/twitter/follow/TrippleK?logo=twitter&style=for-the-badge" alt="ThrippleK" />
-<img src="https://komarev.com/ghpvc/?username=Sachintha-Samarathunga&color=blue&style=for-the-badge" alt="ThrippleK" /> <a href="https://www.buymeacoffee.com/thrpplek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 180px !important;" ></a>
+<img src="https://komarev.com/ghpvc/?username=Sachintha-Samarathunga&color=blue&style=for-the-badge" alt="ThrippleK" /> <a href="https://www.buymeacoffee.com/thrpplek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 150px !important;" ></a>
 </p>
 
 <!--<div align="center">
